@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yazhvizhi%20M&desc=Full-Stack%20Developer&fontSize=70&descSize=20&fontAlignY=46" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E84DDC&width=435&lines=++++++++++Code+Create+Evolve...;++Full-stack+mind+Clean-code+soul;++Building+quietly+Improving+daily" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -141,16 +140,11 @@ Focused on learning, building, and improving every day..
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 4 | 1,368 |
+| **CodeChef** | 621 | 801 |
+| **CodeForces** | - |- |
+| **GeeksForGeeks** | - | - |
 
-###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
-
----
 
 ##  GitHub Analytics
 
@@ -206,9 +200,9 @@ Focused on learning, building, and improving every day..
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/sabariyuhendh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yazhvizhi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yazhvizhi-murugaiyan-2b5b19338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/></a>
+  <a href="yazhvizhimurugaiyan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
@@ -218,6 +212,6 @@ Focused on learning, building, and improving every day..
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [yazhvizhi](https://github.com/yazhvizhi)**
 
 </div>
