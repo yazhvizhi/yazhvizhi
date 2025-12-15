@@ -46,8 +46,7 @@ Focused on learning, building, and improving every day..
   <tr>
     <th align="left">Backend & Frameworks</th>
     <td>
-      
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+       <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
     </td>
   </tr>
 
