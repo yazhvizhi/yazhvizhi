@@ -133,8 +133,8 @@ Focused on learning, building, and improving every day..
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 4 | 1,368 |
-| **CodeChef** | 621 | 900 |
+| **LeetCode** | 183 | 1,469 |
+| **CodeChef** | 984 | 1169 |
 | **CodeForces** | - |- |
 | **GeeksForGeeks** | - | - |
 
