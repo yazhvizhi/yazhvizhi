@@ -63,68 +63,11 @@ Focused on learning, building, and improving every day..
 
 <br>
 
-## Featured Projects  
 
-<table align="center" width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
-  </tr>
+   
+     
+    
 
-  <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
-    <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
-    </td>
-    <td>
-      React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>VULNERABILITY SCANNER</b><br><i>Real-time Web Application Security Scanner</i></td>
-    <td>
-      A collaborative project to build a real-time vulnerability scanner for web applications with comprehensive reporting and dashboard features.
-    </td>
-    <td>
-      React.js • Tailwind CSS • GitHub
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>DEVCONNECT</b><br><i>Developer Social Network & Collaboration Hub</i></td>
-    <td>
-      A specialized social networking and collaboration platform designed exclusively for software developers, unifying professional networking, knowledge exchange, and peer collaboration.
-    </td>
-    <td>
-      React.js • Node.js • MongoDB • WebSockets
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>EXPENSE TRACKER</b><br><i>Financial Management System</i></td>
-    <td>
-      A comprehensive expense tracker application built with Maven, featuring SQL database integration for efficient financial tracking and money management.
-    </td>
-    <td>
-      Java • Maven • MySQL • Spring Boot
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
-    </td>
-  </tr>
-</table>
 
 
 ##  DSA & Problem Solving Achievements
