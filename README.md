@@ -72,14 +72,13 @@ Focused on learning, building, and improving every day..
 
 ##  DSA & Problem Solving Achievements
 
-###  **1207+ Problems Solved Across Platforms**
+###  **1200+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 250+ | 1,469 |
 | **CodeChef** | 1000+ | 1300 |
-| **CodeForces** | - |- |
-| **GeeksForGeeks** | - | - |
+| **GeeksForGeeks** | 50+ | 176 |
 
 
 ##  GitHub Analytics
