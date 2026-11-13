@@ -78,7 +78,6 @@ Focused on learning, building, and improving every day..
 |----------|----------------|------------|
 | **LeetCode** | 250+ | 1,469 |
 | **CodeChef** | 1000+ | 1300 |
-| **GeeksForGeeks** | 50+ | 176 |
 
 
 ##  GitHub Analytics
